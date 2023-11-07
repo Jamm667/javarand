@@ -1,0 +1,31 @@
+ #intro{
+ 	display: flex;
+ 	align-self: center;
+ 	font-size: 20pt;
+ 	font-family: monospace;
+
+ }
+
+ #title{
+ 	font-family: monospace;
+ 	margin-left: 20%;
+ 	font-size: 40pt;
+ }
+
+ #outputContainer{
+ 	width: 80%;
+ 	height: 40pt;
+ 	background-color: black;
+ 	justify-content: center;
+ 	align-items: center;
+ }
+
+ #outputText{
+ 	font-size: 24pt;
+ 	justify-content: center;
+ }
+
+ .body{
+ 	background-color: lightblue;
+
+ }
